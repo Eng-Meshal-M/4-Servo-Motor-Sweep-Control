@@ -64,6 +64,6 @@ The Arduino program performs the following sequence:
 
 A short demonstration video of the simulation is included in this repository.
 
-```
-demo.mp4
-```
+
+https://github.com/user-attachments/assets/c2a3c0a6-a64a-45a5-8835-ca5c0eea99cd
+
