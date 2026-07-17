@@ -11,7 +11,7 @@ This project demonstrates how to control **four servo motors** using an Arduino 
 All four servos perform a synchronized sweep motion for **2 seconds**, then automatically move to **90°** and remain there briefly before repeating the sequence.
 
 <p align="center">
-  <img  src="https://github.com/user-attachments/assets/90120d27-b9d3-4dc0-9a90-337d0c996d9b" 
+  <img src="https://github.com/user-attachments/assets/e5739df6-7690-410a-8908-b46de04ed282"
  width="85%" />
 </p>
 
@@ -64,6 +64,4 @@ The Arduino program performs the following sequence:
 
 A short demonstration video of the simulation is included in this repository.
 
-
-https://github.com/user-attachments/assets/c2a3c0a6-a64a-45a5-8835-ca5c0eea99cd
-
+https://github.com/user-attachments/assets/f703b414-aa13-466a-b00b-fcc6a6ede830
